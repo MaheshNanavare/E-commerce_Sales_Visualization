@@ -3,6 +3,7 @@
 ### Competition Name: VisualiZeal: Data speaks, visualization amplifies
 ### Conducted by College: Management Development Institute (MDI), Murshidabad
 ### Conducted on Platform: UnStop
+### Competition Link: https://unstop.com/competitions/visualizeal-data-speaks-visualization-amplifies-management-development-institute-mdi-murshidabad-644031
 
 # Repository Contents
 - Data (Excel File)
